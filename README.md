@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Utkarshsingh8881&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshsingh8881&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#![image](https://github.com/Utkarshsingh8881/Utkarshsingh8881/assets/78108799/b289a629-4732-4304-9ebb-aaa8f6ce5d51)Leetcode:
+
 
 ![](https://leetcode-badge-sage.vercel.app/badge/utkarshsingh9839?theme={light|dark|neutral})
 
