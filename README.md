@@ -16,6 +16,8 @@
 
 ![](https://leetcode-badge-sage.vercel.app/badge/utkarshsingh9839?theme={light|dark|neutral})
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=utkarshsingh9839)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Utkarshsingh8881&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
